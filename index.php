@@ -19,23 +19,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1 bannerBox">
-                        <h1>Build your online store</h1>
+                        <h1>Are You Ready To Start Selling Online?</h1>
                         <div class="bannerPar">
-                        <h4>As a Google Certified Partner we offer professional advice and actionable items with our audit program. Request one today.</h4>
+                        <h4>Get your own store up and running in no time. Request professional advice on getting your store ready to start selling online.</h4>
                         </div>
-                        <button class="btn-lg btn-success" data-toggle="modal" data-target="#audit-request">Free Adwords Audit</button>
+                        <button class="btn-lg btn-success" data-toggle="modal" data-target="#audit-request">Start a Conversation</button>
                     </div>
                 </div>
             </div>
         </section><!--  end jumbotron section -->
-            <div class="col-xs-12 pointerMoneybrown">
-                      
+
+            <div class="col-xs-12 pointerMoneybrown">              
             </div>
+
         <section id="navMeone">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1 text-center">
-                        <h2>PROFESSIONAL ADWORDS AGENCY</h2> 
+                        <h2>PROFESSIONAL SERVICES</h2> 
                        <p>When you have health problems you see a doctor. For legal issues you hire an attorney. So when 
                         it comes to your website, which is a critical component to your business, why would you look to anyone
                         else other than a professional Adwords agency to build the equity in your valuable business asset known as your website?</p>
@@ -49,90 +50,59 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             </div>
         </section><!-- end about section -->
-            <div class="col-xs-12 pointerWhite">
-               
+
+            <div class="col-xs-12 pointerWhite"> 
             </div>
+
         <section id="navMetwo" class="gray-back">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1">
-                        <h2 class="text-center">CAMPAIGN TYPES</h2>
+                        <h2 class="text-center">FEATURES</h2>
                         <p class="text-center">Every company has different business challenges that require custom tailored Adwords campaigns to help them achieve their digital marketing goals. Your company may need just one campaign type or all three, but whether your objective is to increase online sales, generate qualified leads, or build awareness about your brand or product - We've got you covered. </p>
                             <div class="row text-center">
                                 <div class="col-sm-4 smallHeading">
-                                    <img src="img/ecommerce.png" alt="">
-                                    <h4>E-commerce Sales</h4>
+                                    <img src="img/.png" alt="">
+                                    <h4>Poweful Exposure</h4>
                                     <p>Campaigns designed to drive on-line sales for your e-commerce application. </p>
                                 </div>
                                 <div class="col-sm-4 smallHeading">
-                                    <img src="img/leadgeneration.png" alt="">
-                                    <h4>Lead Generation</h4>
+                                    <img src="img/.png" alt="">
+                                    <h4>Custom Stores</h4>
                                     <p>Campaigns designed to generate qualified leads and prospects for your sales team.</p>
                                 </div>
                                 <div class="col-sm-4 smallHeading">
-                                    <img src="img/branding.png" alt="">
-                                    <h4>Awareness</h4>
+                                    <img src="img/.png" alt="">
+                                    <h4>Highly Functional</h4>
                                     <p>Campaigns designed to build awareness about your brand, product, or service.</p>
                                 </div>
                             </div>
                 </div>
             </div>
         </section><!-- end campaign types section -->
-            <div class="col-xs-12 pointerLightgray">
-               
+
+            <div class="col-xs-12 pointerLightgray"> 
             </div>
+
         <section id="navMethree">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1">
-                        <h2 class="text-center">OUR ADWORDS CAPABILITIES</h2>
-                        <p class="text-center">The scope of the Adwords platform is massive and we work hard everyday to make sure we are proficient in all areas
-                         of the platform. Everything we do is measured through analytics. we make sure our clients are using the most advanced 
-                         digital marketing channels within the Adwords platform, and that they are visible on all devices that are relevant to their 
-                         organization. The items below describe in detail our capabilities within the Adwords platform.</p>
-                        <?php include "php/capabilities-accordion.php";?>    
-                    </div>
-                </div>
-            </div>
-        </section><!-- end capabilities section -->
-            <div class="col-xs-12 pointerWhite">
-
-            </div>
-        <section id="navMefour" class="gray-back">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-10 col-sm-offset-1">
-                        <h2 class="text-center">OUR PROCESS</h2>
-                        <p class="text-center">Each client is unique, therefore, we have developed a process to identify our
-                        clients requirements, put together a strategy for those requirements, implement a custom strategy, measure the strategy, 
-                        and optimize the stratgy. This is a process we repeat each month with complete transparency.</p>
-                        <?php include "php/ourprocess-accordion.php";?>    
-                    </div>
-                </div>
-            </div>
-        </section><!--  end our process section -->
-            <div class="col-xs-12 pointerLightgray">
-               
-            </div>
-        <section id="navMefive">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-10 col-sm-offset-1">
-                        <h2 class="text-center">CASE STUDIES</h2>
+                        <h2 class="text-center">SHOWCASE</h2>
                             <div class="row text-center caseLogos">
                                 <div class="col-sm-4 smallHeading"> 
                                     <div class="hovergallery">
-                                        <a href="#case-study-ntg" role="button" class="caseButton" data-toggle="modal"><img src="img/usnetting_logo.png" alt="US Netting"></a>
+                                        <a href="#case-study-ntg" role="button" class="caseButton" data-toggle="modal"><img src="img/.png" alt="US Netting"></a>
                                     </div>                                 
                                 </div>
                                 <div class="col-sm-4 smallHeading">
                                     <div class="hovergallery">
-                                        <a href="#case-study-rca" role="button" class="caseButton" data-toggle="modal"><img src="img/raeford_logo.png" alt="Raeford Crossing Apartments"></a>
+                                        <a href="#case-study-rca" role="button" class="caseButton" data-toggle="modal"><img src="img/.png" alt="Raeford Crossing Apartments"></a>
                                     </div>   
                                 </div>
                                 <div class="col-sm-4 smallHeading">
                                     <div class="hovergallery">
-                                        <a href="#case-study-svh" role="button" class="caseButton" data-toggle="modal"><img src="img/sv_logo.png" alt="Saint Vincent Hospital"></a>
+                                        <a href="#case-study-svh" role="button" class="caseButton" data-toggle="modal"><img src="img/.png" alt="Saint Vincent Hospital"></a>
                                     </div>     
                                 </div>
                             </div>
@@ -140,10 +110,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             </div>
         </section><!--end case studies section -->
+
             <div class="col-xs-12 pointerWhite">
-               
             </div>
-        <section id="navMesix" class="gray-back">
+
+        <section id="navMefour" class="gray-back">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1">
@@ -169,9 +140,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             </div>
         </section><!-- end contact section -->
+
             <div class="col-xs-12 pointerLightgray">
-               
             </div>
+
         <footer>
             <div class="container footer">
                 <div class="row">

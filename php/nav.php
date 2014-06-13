@@ -11,13 +11,10 @@
 		</div>
 		<div class="collapse navbar-collapse navbar-m-collapse ">
 			<ul class="nav navbar-nav navbar-right">
-				<li><a class="scroll" data-speed="380" data-target="#about" href="#navMeone">About</a></li>
-				<li><a class="scroll" data-speed="380" data-target="#campaigntypes" href="#navMetwo">Campaign Types</a></li>
-				<li><a class="scroll" data-speed="380" data-target="#ourcapabilities" href="#navMethree">Our Capabilities</a></li>
-				<li><a class="scroll" data-speed="380" data-target="#ourprocess" href="#navMefour">Our Process</a></li>
-				<li><a class="scroll" data-speed="380" data-target="#casestudies" href="#navMefive">Case Studies</a></li>
-				<li><a class="scroll" data-speed="380" data-target="#contact" href="#navMesix">Contact</a></li>
-                <li><a class="scroll" href="http://www.myriadcore.com/blog/" target="_blank">Blog</a></li>
+				<li><a class="scroll" data-speed="380" data-target="#about" href="#navMeone">Professional Services</a></li>
+				<li><a class="scroll" data-speed="380" data-target="#campaigntypes" href="#navMetwo">Features</a></li>
+				<li><a class="scroll" data-speed="380" data-target="#ourcapabilities" href="#navMethree">Showcase</a></li>
+				<li><a class="scroll" data-speed="380" data-target="#ourprocess" href="#navMefour">Contact</a></li>
 			</ul>
 		</div>
 
