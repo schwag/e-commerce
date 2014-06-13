@@ -23,7 +23,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <div class="bannerPar">
                         <h4>Get your own store up and running in no time. Request professional advice on getting your store ready to start selling online.</h4>
                         </div>
-                        <button class="btn-lg btn-success" data-toggle="modal" data-target="#audit-request">Start a Conversation</button>
+                        <button class="btn-lg btn-success" data-toggle="modal" data-target="#audit-request">Start Your Ecommerce Project Today</button>
                     </div>
                 </div>
             </div>
@@ -45,7 +45,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         thousands of sales and leads for our clients. If you're company is looking to upgrade their Adwords campaigns to
                         professional grade, request an audit and we'll help you obtain your digital marketing goals through Adwords.  
                        </p></br>
-                       <a href="https://www.google.com/partners/?hl=en-US#a_profile;idtf=4275950048;" target="_blank"><img src="img/google_partners_badge.png" alt="google partner"></a>
                     </div>
                 </div>
             </div>
@@ -55,6 +54,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
 
         <section id="navMetwo" class="gray-back">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-10 col-sm-offset-1 text-center">
+                        <h2>IS ECOMMERCE A PROFITABLE BUSINESS?</h2> 
+                       <p>When you have health problems you see a doctor. For legal issues you hire an attorney. So when 
+                        it comes to your website, which is a critical component to your business, why would you look to anyone
+                        else other than a professional Adwords agency to build the equity in your valuable business asset known as your website?</p>
+                    </div>
+                </div>
+            </div>
+        </section><!-- end campaign types section -->
+
+            <div class="col-xs-12 pointerLightgray"> 
+            </div>
+
+        <section id="navMethree">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1">
@@ -77,14 +92,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <p>Campaigns designed to build awareness about your brand, product, or service.</p>
                                 </div>
                             </div>
+                    </div>
                 </div>
+            </div>
+        </section><!-- end about section -->
+
+            <div class="col-xs-12 pointerWhite"> 
+            </div>
+
+        <section id="navMefour" class="gray-back">
+            <div class="container">
+                    <div class="col-sm-10 col-sm-offset-1">
+                        <h2 class="text-center">FAQ</h2>
+                        <p class="text-center">Each client is unique, therefore, we have developed a process to identify our
+                        clients requirements, put together a strategy for those requirements, implement a custom strategy, measure the strategy, 
+                        and optimize the stratgy. This is a process we repeat each month with complete transparency.</p>
+                        <?php include "php/ourprocess-accordion.php";?>    
+                    </div>
             </div>
         </section><!-- end campaign types section -->
 
             <div class="col-xs-12 pointerLightgray"> 
             </div>
 
-        <section id="navMethree">
+        <section id="navMefive">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1">
@@ -114,7 +145,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="col-xs-12 pointerWhite">
             </div>
 
-        <section id="navMefour" class="gray-back">
+        <section id="navMesix" class="gray-back">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1">

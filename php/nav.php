@@ -12,9 +12,11 @@
 		<div class="collapse navbar-collapse navbar-m-collapse ">
 			<ul class="nav navbar-nav navbar-right">
 				<li><a class="scroll" data-speed="380" data-target="#about" href="#navMeone">Professional Services</a></li>
-				<li><a class="scroll" data-speed="380" data-target="#campaigntypes" href="#navMetwo">Features</a></li>
-				<li><a class="scroll" data-speed="380" data-target="#ourcapabilities" href="#navMethree">Showcase</a></li>
-				<li><a class="scroll" data-speed="380" data-target="#ourprocess" href="#navMefour">Contact</a></li>
+				<li><a class="scroll" data-speed="380" data-target="#campaigntypes" href="#navMetwo">About Ecommerce</a></li>
+				<li><a class="scroll" data-speed="380" data-target="#ourcapabilities" href="#navMethree">Features</a></li>
+				<li><a class="scroll" data-speed="380" data-target="#ourprocess" href="#navMefour">FAQ</a></li>
+				<li><a class="scroll" data-speed="380" data-target="#ourcapabilities" href="#navMefive">Showcase</a></li>
+				<li><a class="scroll" data-speed="380" data-target="#ourprocess" href="#navMesix">Contact</a></li>
 			</ul>
 		</div>
 
