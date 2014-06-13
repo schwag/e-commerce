@@ -77,17 +77,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <p class="text-center">Every company has different business challenges that require custom tailored Adwords campaigns to help them achieve their digital marketing goals. Your company may need just one campaign type or all three, but whether your objective is to increase online sales, generate qualified leads, or build awareness about your brand or product - We've got you covered. </p>
                             <div class="row text-center">
                                 <div class="col-sm-4 smallHeading">
-                                    <img src="img/.png" alt="">
-                                    <h4>Poweful Exposure</h4>
+                                    <img src="img/ecommerce.png" alt="">
+                                    <h4>Your Custom Store</h4>
                                     <p>Campaigns designed to drive on-line sales for your e-commerce application. </p>
                                 </div>
                                 <div class="col-sm-4 smallHeading">
-                                    <img src="img/.png" alt="">
-                                    <h4>Custom Stores</h4>
+                                    <img src="img/ecommerce.png" alt="">
+                                    <h4>Poweful Exposure</h4>
                                     <p>Campaigns designed to generate qualified leads and prospects for your sales team.</p>
                                 </div>
                                 <div class="col-sm-4 smallHeading">
-                                    <img src="img/.png" alt="">
+                                    <img src="img/ecommerce.png" alt="">
                                     <h4>Highly Functional</h4>
                                     <p>Campaigns designed to build awareness about your brand, product, or service.</p>
                                 </div>
@@ -107,7 +107,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <p class="text-center">Each client is unique, therefore, we have developed a process to identify our
                         clients requirements, put together a strategy for those requirements, implement a custom strategy, measure the strategy, 
                         and optimize the stratgy. This is a process we repeat each month with complete transparency.</p>
-                        <?php include "php/ourprocess-accordion.php";?>    
+                        <?php include "php/faq-accordion.php";?>    
                     </div>
             </div>
         </section><!-- end campaign types section -->
@@ -123,17 +123,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <div class="row text-center caseLogos">
                                 <div class="col-sm-4 smallHeading"> 
                                     <div class="hovergallery">
-                                        <a href="#case-study-ntg" role="button" class="caseButton" data-toggle="modal"><img src="img/.png" alt="US Netting"></a>
+                                        <img src="img/folio_plyler.jpg" alt="">
                                     </div>                                 
                                 </div>
                                 <div class="col-sm-4 smallHeading">
                                     <div class="hovergallery">
-                                        <a href="#case-study-rca" role="button" class="caseButton" data-toggle="modal"><img src="img/.png" alt="Raeford Crossing Apartments"></a>
+                                        <img src="img/folio_plyler.jpg" alt="">                                    
                                     </div>   
                                 </div>
                                 <div class="col-sm-4 smallHeading">
                                     <div class="hovergallery">
-                                        <a href="#case-study-svh" role="button" class="caseButton" data-toggle="modal"><img src="img/.png" alt="Saint Vincent Hospital"></a>
+                                        <img src="img/folio_plyler.jpg" alt="">                                    
                                     </div>     
                                 </div>
                             </div>
